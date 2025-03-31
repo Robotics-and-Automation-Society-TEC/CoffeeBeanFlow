@@ -8,7 +8,7 @@
 
 ## 📌 ** Project Description **  
 An automated system for predicting and optimizing the coffee drying process, using sensors that collect important data, paddle beds for moving the coffee, a database, and an AI system to predict timing. Developed by:
-- **Mechanical and Eensor Team**: Dessign the mixing system, ensuring even dryness.  
+- **Mechanical and Sensor Team**: Dessign the mixing system, ensuring even dryness.  
 - **Electronic Team**: Sensores (DHT22, flujo de aire) y microcontroladores (Arduino/ESP32).  
 - **Software & AI Team**: Design the app to register all the information related to each coffee work on the database. Also, this team will develop an AI system taht will control the machine.
 
